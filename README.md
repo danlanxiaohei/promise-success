@@ -1,3 +1,6 @@
+[![npm version](https://badge.fury.io/js/urllib-promise.svg)](https://badge.fury.io/js/urllib-promise)
+[![build status][travis-image]][travis-url]
+
 # urllib-promise
 this is a urllib encapsulation using promise
 ## Install
