@@ -1,4 +1,4 @@
-const request = require('../lib/urllib-promise');
+const request = require('../lib/baeRequest');
 import test from 'ava';
 
 test('reqeust', async t => {

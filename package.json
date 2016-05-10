@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/danlanxiaohei/urllib-promise#readme",
   "dependencies": {
+    "agentkeepalive": "^2.1.1",
     "urllib": "^2.9.0"
   },
   "devDependencies": {
