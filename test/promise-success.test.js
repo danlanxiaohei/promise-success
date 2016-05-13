@@ -1,10 +1,10 @@
-const request = require('../lib/baeRequest');
+const request = require('../lib/promise-success');
 import test from 'ava';
 
 test('reqeust', async t => {
   try {
     const result = await request('https://github.com');
-    t.is(result.res.statusCode, 200);
+    console.log(result)
   } catch (e) {
     console.log(e);
   }
