@@ -1,6 +1,6 @@
-[![npm version](https://badge.fury.io/js/urllib-promise.svg)](https://badge.fury.io/js/urllib-promise)
-[![Build Status](https://travis-ci.org/danlanxiaohei/urllib-promise.svg?branch=master)](https://travis-ci.org/danlanxiaohei/urllib-promise)
-# urllib-promise
+[![npm version](https://badge.fury.io/js/urllib-promise.svg)](https://badge.fury.io/js/promise-success)
+[![Build Status](https://travis-ci.org/danlanxiaohei/urllib-promise.svg?branch=master)](https://travis-ci.org/danlanxiaohei/promise-success)
+# promise-success
 目标：封装公司现有请求：
 
 请求返回200：resolve，附带经过JSON.parse()后的数据。
@@ -9,7 +9,7 @@
 
 ## Install
 ```bash
-$ npm install baeRequest --save
+$ npm install promise-success --save
 ```
 ## Usage
 ```js
@@ -18,7 +18,7 @@ $ npm install baeRequest --save
 
 var koa = require('koa');
 var app = koa();
-var request = require('baeRequest');
+var request = require('promise-success');
 
 app.use(function *(){
   try {
