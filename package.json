@@ -1,6 +1,6 @@
 {
   "name": "promise-success",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "this is a encapsulation based on urllib, it only call Fulfilled when the status === 200",
   "main": "./lib/promise-success.js",
   "scripts": {
