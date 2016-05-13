@@ -1,14 +1,14 @@
 {
-  "name": "urllib-promise",
-  "version": "1.1.3",
-  "description": "this is a urllib encapsulation using promise",
-  "main": "./lib/urllib-promise.js",
+  "name": "promise-success",
+  "version": "0.1.0",
+  "description": "this is a encapsulation based on urllib, it only call Fulfilled when the status === 200",
+  "main": "./lib/promise-success.js",
   "scripts": {
-    "test": "ava ./test/urllib-promise.test.js"
+    "test": "ava ./test/promise-success.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danlanxiaohei/urllib-promise.git"
+    "url": "https://github.com/danlanxiaohei/promise-success.git"
   },
   "keywords": [
     "urllib",
@@ -19,9 +19,9 @@
   "author": "danlanxiaohei",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danlanxiaohei/urllib-promise/issues"
+    "url": "https://github.com/danlanxiaohei/promise-success/issues"
   },
-  "homepage": "https://github.com/danlanxiaohei/urllib-promise#readme",
+  "homepage": "https://github.com/danlanxiaohei/promise-success#readme",
   "dependencies": {
     "agentkeepalive": "^2.1.1",
     "urllib": "^2.9.0"
