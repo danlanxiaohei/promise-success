@@ -1,5 +1,5 @@
-[![npm version](https://badge.fury.io/js/urllib-promise.svg)](https://badge.fury.io/js/promise-success)
-[![Build Status](https://travis-ci.org/danlanxiaohei/urllib-promise.svg?branch=master)](https://travis-ci.org/danlanxiaohei/promise-success)
+<!-- [![npm version](https://badge.fury.io/js/urllib-promise.svg)](https://badge.fury.io/js/promise-success)
+[![Build Status](https://travis-ci.org/danlanxiaohei/urllib-promise.svg?branch=master)](https://travis-ci.org/danlanxiaohei/promise-success) -->
 # promise-success
 目标：封装公司现有请求：
 
